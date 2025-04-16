@@ -6,7 +6,7 @@ public class BMI_Calculator {
         
         // Take input for the number of persons
         System.out.print("Enter the number of persons: ");
-        int n = scanner.nextInt(); 
+        int n = scanner.nextInt();  
          
         // Arrays to store height, weight, BMI, and weight status
         double[] height = new double[n];
