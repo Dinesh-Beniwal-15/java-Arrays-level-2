@@ -9,7 +9,7 @@ public class BMI_Calculator {
         int n = scanner.nextInt();      
           
         // Arrays to store height, weight, BMI, and weight status   
-        double[] height = new double[n]; 
+        double[] height = new double[n];  
         double[] weight = new double[n];  
         double[] bmi = new double[n];
         String[] status = new String[n];
