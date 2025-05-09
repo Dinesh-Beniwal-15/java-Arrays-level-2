@@ -9,7 +9,7 @@ public class LargestTwoDigits {
         int number = input.nextInt();
         input.close(); 
            
-        // Define an array to store digits (max size 10)
+        // Define an array to store digits (max size 10) 
         int maxDigit = 10;
         int[] digits = new int[maxDigit];
         int index = 0;
