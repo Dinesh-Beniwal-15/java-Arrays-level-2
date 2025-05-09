@@ -4,7 +4,7 @@ public class LargestTwoDigits {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
-        // Taking user input
+        // Taking user input 
         System.out.print("Enter a number: "); 
         int number = input.nextInt();
         input.close();
