@@ -2,7 +2,7 @@ import java.util.Scanner;
   
 public class EmployeeBonus {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in); 
+        Scanner input = new  Scanner(System.in); 
         
         final int EMPLOYEE_COUNT = 10;
         double[] salaries = new double[EMPLOYEE_COUNT];
