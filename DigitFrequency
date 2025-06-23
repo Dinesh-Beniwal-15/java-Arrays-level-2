@@ -10,7 +10,7 @@ public class DigitFrequency {
   
         // Convert number to a positive value (if negative)
         number = Math.abs(number);
-
+ 
         // Array to store the frequency of digits (0-9)
         int[] frequency = new int[10];
 
