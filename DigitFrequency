@@ -6,7 +6,7 @@ public class DigitFrequency {
  
         // Take input for the number 
         System.out.print("Enter a number: ");  
-        int number = scanner.nextInt(); 
+        int number = scanner.nextInt();  
   
         // Convert number to a positive value (if negative)
         number = Math.abs(number);
