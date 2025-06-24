@@ -11,7 +11,7 @@ public class LargestTwoDigits {
              
         // Define an array to store digits (max size 10)  
         int maxDigit = 10;  
-        int[] digits = new int[maxDigit];
+        int[] digits = new int[maxDigit]; 
         int index = 0;
         
         // Extract digits and store in array
